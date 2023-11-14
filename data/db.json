@@ -1,0 +1,22 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "Name": "John",
+      "Surname": "Doe",
+      "UserType": "Regular",
+      "CreatedDate": "2023-11-14",
+      "City": "Example City",
+      "Address": "123 Main St"
+    },
+    {
+      "id": 2,
+      "Name": "Jane",
+      "Surname": "Doe",
+      "UserType": "Admin",
+      "CreatedDate": "2023-11-14",
+      "City": "Sample City",
+      "Address": "456 Broad St"
+    }
+  ]
+}
